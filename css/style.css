@@ -405,6 +405,15 @@ align-items: center;
             }
         }
         @media(max-width:820px) {
+            .choose__title {
+                font-size: 50px;
+            }
+            .why__title {
+                font-size: 50px;
+            }
+            .burger__box-title {
+                font-size: 50px;
+            }
             .header__inner {
                 display: flex;
                 flex-direction: column;
@@ -438,7 +447,6 @@ align-items: center;
             text-align: center;
           }
         }
-      
       
       
   
